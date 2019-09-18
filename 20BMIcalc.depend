@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1542198220 source:c:\users\mateusz\desktop\programowanie\c++\challenges\20bmicalc\main.cpp
+	<string>
+	<tchar.h>
+	<windows.h>
+	<sstream>
+	<commctrl.h>
+	<shlwapi.h>
+
+1542193014 source:c:\users\mateusz\desktop\programowanie\c++\challenges\20bmicalc\res.rc
+
+1542198319 source:c:\users\mateusz\desktop\programowanie\c++\challenges\20bmicalc\untitled1.rc
+
+1542201919 source:d:\programowanie\c++\challenges\20bmicalc\untitled1.rc
+
+1568831946 source:d:\programowanie\c++\challenges\20bmicalc\main.cpp
+	<string>
+	<tchar.h>
+	<windows.h>
+	<sstream>
+	<commctrl.h>
+	<shlwapi.h>
+

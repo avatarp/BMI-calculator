@@ -1,0 +1,9 @@
+
+*.exe
+obj/Debug/main.o
+obj/Debug/res.res
+obj/Debug/Untitled1.res
+obj/Release/main.o
+obj/Release/res.res
+obj/Release/Untitled1.res
+fitness-glyph-16-512.png
